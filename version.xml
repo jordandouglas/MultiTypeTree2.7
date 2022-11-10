@@ -4,7 +4,6 @@
 
     <service type="beastfx.app.inputeditor.InputEditor">
         <!--  require BEAST.app >= 2.7.3  -->
-        <provider classname="beastfx.app.inputeditor.TypeTraitSetInputEditor"/>
         <provider classname="multitypetree.app.beauti.MigrationModelInputEditor"/>
     </service>
 
